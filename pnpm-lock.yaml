@@ -693,8 +693,8 @@ importers:
         specifier: 6.6.7
         version: 6.6.7
       sanitize-html:
-        specifier: 2.10.0
-        version: 2.10.0
+        specifier: 2.12.1
+        version: 2.12.1
       sass.js:
         specifier: 0.11.1
         version: 0.11.1
@@ -29048,8 +29048,8 @@ packages:
       postcss: 7.0.39
     dev: false
 
-  /sanitize-html@2.10.0:
-    resolution: {integrity: sha512-JqdovUd81dG4k87vZt6uA6YhDfWkUGruUu/aPmXLxXi45gZExnt9Bnw/qeQU8oGf82vPyaE0vO4aH0PbobB9JQ==}
+  /sanitize-html@2.12.1:
+    resolution: {integrity: sha512-Plh+JAn0UVDpBRP/xEjsk+xDCoOvMBwQUf/K+/cBAVuTbtX8bj2VB7S1sL1dssVpykqp0/KPSesHrqXtokVBpA==}
     dependencies:
       deepmerge: 4.3.0
       escape-string-regexp: 4.0.0
